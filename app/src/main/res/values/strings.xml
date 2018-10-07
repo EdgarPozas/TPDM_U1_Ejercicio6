@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TPDM_U1_Ejercicio6</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="opciones">
+		<item>Capturar</item>
+		<item>Consultar</item>
+		<item>Acerca de...</item>
+	</string-array>
+</resources>
